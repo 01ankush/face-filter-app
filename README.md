@@ -1,2 +1,2 @@
-# face-filter-app
-Deep learning based face filter app created using streamlit
+# face-filter
+face filter app using shape_predictor_68_face_landmarks
